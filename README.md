@@ -1,1 +1,2 @@
-# TASK-04
+ TASK-04
+This task is about  building a simple binary classification model using Logistic Regression. The goal is to train a machine learning model that can predict one of two outcomes (like yes/no or positive/negative) based on input features from a dataset. You will first choose a suitable dataset (e.g., Breast Cancer dataset), then split it into training and testing sets, and standardize the data. After that, you’ll train a logistic regression model and evaluate its performance using metrics like confusion matrix, precision, recall, and ROC-AUC curve. we learned how the sigmoid function works and how changing the threshold can affect your predictions. This task helps you understand the basics of classification and model evaluation.
